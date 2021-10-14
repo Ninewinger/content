@@ -13,7 +13,7 @@ status: "published"
 ***
 
 Working with events is a totally new way of **controlling the flow of an application.**  It is the first time that your code will not be executed in a linear flow which is how JavaScript is generally programmed to execute - from the first line of code to the last.  
-Instead, your code will now be executed **asynchronously** (i.e. some pieces of code will not work when the rest of the surrounding code is being executed, but only when they are explicitly triggered). Who knows what comes first???
+Instead, your code will now be executed **asynchronously** (i.e. some pieces of code will not work when the rest of the surrounding code is being executed, but only when they are explicitly triggered). Who knows what comes first???.
 
 ### What is an Event?
 
